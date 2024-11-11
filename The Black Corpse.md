@@ -1,0 +1,26 @@
+## The Limbs
+
+|                                                                                                                                                                                                                            | -Head-  <br>Type: Passive  <br>Unless damaged by radiant type damage, the head will bring you back from death immediately after failing all your death saves.  <br>Warning: Sandman                                | <                                                                                                                                                    |                                                                                                                                                                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| -Left Arm-  <br>Type: Bonus Action  <br>Beckon: Opponent within 40ft makes a STR save or is brought within 5 feet of you.  <br>Reversal: Move 40ft instantly, once per long rest can be used to completely dodge an attack | -Heart-  <br>Type: Action  <br>Brood Mother: Sacrifice x health to summon x crows. Choose a single creature and on the start of each of the creatures turns they roll a DEX save taking half of xd4 poison damage. | -Chest-  <br>Type: Passive  <br>According to legend, the chest acts as a shield for radiant damage up to a point, works in conjunction with the head | -Right Arm-  <br>Type: Action  <br>Make a melee spell atack roll, on hit, deal 8d12 necrotic damage with a guranteed Major necrotic injury  <br>Extra: by sacrificing the injury, the attack can instead deal primordial damage |
+|                                                                                                                                                                                                                            | -Left Leg-  <br>Type: Action  <br>Salt of The Earth: Bind a creature within 40ft. DEX save or be Grappled. STR save each turn to end the effect.                                                                   | -Right Leg-  <br>Type: Action  <br>Polymorph into a Roc, taking its physical stat increases                                                          |                                                                                                                                                                                                                                 |
+
+## Sorothian Incarnation
+![[Pasted image 20241110190910.png]]
+- +1 full action
+- 60ft of movement
+- Resistance to all non-magical damage
+- Immunity to disease, the poisoned condition and poison damage
+- Resistance to Nuclear and Necrotic damage
+- Advantage on death saving throws as long as you havent been hit with radiant damage in the last minute
+![[Pasted image 20241110191015.png]]
+- Proficiency on all rolls (i already have proficiency with all charisma rolls)
+- Strength is now 30
+- Constitution is now 28
+
+> [!NOTE] Unsure of Con
+> I think i'm like 90% sure at some point you said my con was higher than 28 in a separate instance, but have no proof and don't properly remember it
+
+- Dexterity is now 26
+
+# STATS WHILE INCARNATED

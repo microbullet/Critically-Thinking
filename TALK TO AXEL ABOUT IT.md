@@ -1,0 +1,5 @@
+- The list of spells i got from the 8 palm
+- How does logistics work in myra
+- What does the torso do
+- What does my silly feat do 
+- Are there different tools for working with adamantium
