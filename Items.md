@@ -42,7 +42,22 @@
 - Can be imbued with other magics to change them or use them in special ways
 
 #### Novrko's Armor
+^f8a46b
 - +1 Ac [[Stat Track#^dad5b3|[1] ]]
 - Exclusively allows me to fuck with the abilities of the black corpse
 
+#### System Flush
+![[Pasted image 20241113181627.png]]
+*I have this because of the Axel hand wave effect*
+![[Pasted image 20241113181353.png]]
+*Item is based on Mind Sharpener*
 
+Lore wise i can do this because i have extremely precise arcane and mechanical control over my entire body while incarnated, i.e. i control all my blood and muscles and have root access to all my organ function except probably my brain. If i didn't i wouldn't be able to perform half the feats I've already done with ease.
+
+- 5 Charges per incarnation
+
+- *Original Effect*: While under the effect of a negative magical effect, expend a single charge to end the effect.
+
+- Re-Balanced Effect: Once per magically triggered condition, you can choose to mentally expend one of the charges to contest the ability targeting you, before it affects you, or after you fail a saving throw to resist the effect. Once per turn, you can expend a charge as a bonus action to contest a magical condition you are currently under. 
+
+  If the user would receive a condition to enter a state in which they cannot use this ability, the ability triggers repeatedly it successfully contests the effect, or the artefact runs out of charges.

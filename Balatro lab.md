@@ -69,7 +69,9 @@ Head -> The Life
 
 ... Of the black soul.
 
-
+Start here 
+ |
+V
 
 --- Black Tsar ---
 
@@ -108,13 +110,51 @@ Calculation:
 | The Space (Intaking compressed air and weave) | ?     |
 | Emerald Rail-cannon Bonus                     | ?     |
 | Rot Bonus (if im lucky)                       | x4    |
-*Each bonus should be pretty big ngl*
+*Each bonus should be pretty big ngl*.
 With the Tsar surviving, because The Body, The Grip and the adamantium bracket are holding it together. 
 With each attack being considered unique because of The Many. 
 With the attack made easier to hit because of the abacus.
 With the option to make it primordial damage because of The Power.
 
 Then all the recoil of firing the weapon is stored using the armor as kinetic energy or "Blazing ichor" with less freedom but more power, so like all the backlash is getting absorbed to be redistributed later.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 The idea is that when we molest sorrow and i ascend to heavenly sorothia maximum output that im gonna "forgive" tye, put my hands on his shoulder and return the full backlash of the Tsar into his body hitting him with the who the hell is steve jobs stare.
 
