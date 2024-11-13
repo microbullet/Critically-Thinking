@@ -47,7 +47,7 @@
 ![[Pasted image 20241110193349.png]]
 - Proficiencies: Heavy Armor, Smith's Tools
 ![[Pasted image 20241110193437.png]] ^1d636e
-- +1 Ac
+- +1 Ac ^dad5b3
 
 ![[Pasted image 20241110193514.png]] ^ed92af
 - Resistance to fire damage
@@ -117,7 +117,7 @@
 #### Pamphlets
 ![[Pasted image 20241110201039.png]]
 *All the pamphlets were confirmed and the glyph was step increased*
-- Proficiency on STR rolls to hit 
+- Proficiency on STR rolls to hit  ^4e6cb6
 - Proficiency on Investigation checks
 - All Charisma (adds 2x prof to my charisma stat *confirmed verbally*)
 - Add proficiency again to spell save dc
@@ -145,6 +145,10 @@
 - Skills: 2: Investigation, Arcana ^ab812c
 - Speak and write primordial ^44b9b9
 - Echoes: will start tracking
+
+#### That one time i trained with Kharn
+- Spent like 8 hours training with the needle to get used to my weight increasing rapidly. ^kharntrain
+- Proficiency with hits where im being a sigma
 
 ## Legendary Resistances
 - Killed Ra

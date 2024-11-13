@@ -14,7 +14,7 @@
 - Resistance to Nuclear and Necrotic damage
 - Advantage on death saving throws as long as you havent been hit with radiant damage in the last minute
 ![[Pasted image 20241110191015.png]]
-- Proficiency on all rolls (i already have proficiency with all charisma rolls)
+- Proficiency on all rolls (i already have proficiency with all charisma rolls) ^profoneverything
 - Strength is now 30
 - Constitution is now 28
 
@@ -24,3 +24,24 @@
 - Dexterity is now 26
 
 # STATS WHILE INCARNATED
+
+| STR | 30  | +10 |
+| --- | --- | --- |
+| DEX | 26  | +8  |
+| CHA | 21* | +5  |
+| WIS | 20  | +5  |
+| INT | 15  | +2  |
+| CON | 28  | +9  |
+| SAN | 14  | +2  |
+
+| Dexterity                             | <   | Wisdom                                    | <   | Intelligence                                                                | <   | Charisma                              | <   |
+| ------------------------------------- | --- | ----------------------------------------- | --- | --------------------------------------------------------------------------- | --- | ------------------------------------- | --- |
+| Acrobatics                            | +13 | Animal Handling                           | +10 | *Arcana* [[Stat Track#^ab812c\|[9] ]]                                       | +12 | Persuasion [[Stat Track#^3333\|[7] ]] | +10 |
+| Sleight of Hand                       | +13 | *Insight* [[Stat Track#^3333\|[7] ]]      | +15 | HIstory                                                                     | +7  | Deception                             | +10 |
+| Stealth [[Stat Track#^a5b278\|[11] ]] | +23 | Medicine                                  | +10 | Religion                                                                    | +7  | Intimidation                          | +10 |
+| **Strength**                          | <   | *Perception* [[Stat Track#^35ba97\|[8] ]] | +15 | Nature                                                                      | +7  | Performance                           | +10 |
+| Athletics                             | +10 | Survival                                  | +10 | *Investigation*\*  [[Stat Track#^35ba97\|[8] ]][[Stat Track#^ab812c\|[9] ]] | +17 | ^                                     | ^   |
+Passive Investigation: 32
+Passive Perception: 30
+
+\*Base of 5 with every number

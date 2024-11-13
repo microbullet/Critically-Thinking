@@ -3,3 +3,6 @@
 - What does the torso do
 - What does my silly feat do 
 - Are there different tools for working with adamantium
+- Battery to upcast ratio
+- Creating the biomass creatura
+- 
