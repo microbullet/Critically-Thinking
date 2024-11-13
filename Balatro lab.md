@@ -95,7 +95,7 @@ Construction:
 Usage:
 1. I spend my entire turn constructing it, and charging the Tsar's intake first.
 2. Tye sits at the back of the Tsar's ammo intake, uses Moonless Glasshouse, compressing and manipulating as many stars as he can, shooting as much of it into the Tsars ammo intake.
-3. He pulls back the lever and releases the soul of the left leg. The Tsars intake slot closes with a bang. This uncompresses all of the air and weave, and allows the ammo to expand to its real size. The ammo then using hydraulics, violently escapes out the barrel of the Tsar.
+3. He pulls back the lever and releases the soul of the left leg. The Tsars intake slot closes with a bang. This un-compresses all of the air and weave, and allows the ammo to expand to its real size. The ammo then using hydraulics, violently escapes out the barrel of the Tsar.
 4. Each piece of ammo is magically propelled by the prismarine lined barrel
 5. The heart of the soul converts each weave enhanced star into "Phoenix Dust" which appears like a pure white bird that leaves a white trail as it exits. Each individual Phoenix dust is a separate attack that does a wild amount of damage.
 
@@ -108,10 +108,15 @@ Calculation:
 | The Space (Intaking compressed air and weave) | ?     |
 | Emerald Rail-cannon Bonus                     | ?     |
 | Rot Bonus (if im lucky)                       | x4    |
+*Each bonus should be pretty big ngl*
 With the Tsar surviving, because The Body, The Grip and the adamantium bracket are holding it together. 
 With each attack being considered unique because of The Many. 
 With the attack made easier to hit because of the abacus.
+With the option to make it primordial damage because of The Power.
 
+Then all the recoil of firing the weapon is stored using the armor as kinetic energy or "Blazing ichor" with less freedom but more power, so like all the backlash is getting absorbed to be redistributed later.
 
+The idea is that when we molest sorrow and i ascend to heavenly sorothia maximum output that im gonna "forgive" tye, put my hands on his shoulder and return the full backlash of the Tsar into his body hitting him with the who the hell is steve jobs stare.
 
+Or OR ORRRR, the needle is like hyper accuracy, like poliaparu but stronger, where it loses range for more accuracy, and as first act as sorothia complete i use it to split all of his atoms apart making him violently explode in a blinding streak of energy.
 
