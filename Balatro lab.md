@@ -69,9 +69,6 @@ Head -> The Life
 
 ... Of the black soul.
 
-Start here 
- |
-V
 
 --- Black Tsar ---
 
@@ -118,45 +115,10 @@ With the option to make it primordial damage because of The Power.
 
 Then all the recoil of firing the weapon is stored using the armor as kinetic energy or "Blazing ichor" with less freedom but more power, so like all the backlash is getting absorbed to be redistributed later.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 The idea is that when we molest sorrow and i ascend to heavenly sorothia maximum output that im gonna "forgive" tye, put my hands on his shoulder and return the full backlash of the Tsar into his body hitting him with the who the hell is steve jobs stare.
 
 Or OR ORRRR, the needle is like hyper accuracy, like poliaparu but stronger, where it loses range for more accuracy, and as first act as sorothia complete i use it to split all of his atoms apart making him violently explode in a blinding streak of energy.
+
+Also the point is going to be that its so horrendously damaging that just releasing it is going to rip my whole arm off in the process
+
 
