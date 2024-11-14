@@ -119,6 +119,7 @@ The idea is that when we molest sorrow and i ascend to heavenly sorothia maximum
 
 Or OR ORRRR, the needle is like hyper accuracy, like poliaparu but stronger, where it loses range for more accuracy, and as first act as sorothia complete i use it to split all of his atoms apart making him violently explode in a blinding streak of energy.
 
-Also the point is going to be that its so horrendously damaging that just releasing it is going to rip my whole arm off in the process
+Also the point is going to be that its so horrendously damaging that just releasing it is going to rip my whole arm off in the process, i know i ussually pull some "yeah but make it stable please please please" but im gonna be real if sigismund doesent have to call in like 30 favours to not get completely vaporised then its too stable
+
 
 
