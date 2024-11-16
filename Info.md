@@ -8,9 +8,9 @@ Artefacts
 | Kariulirus      | Chaos     | Void    | Sand  | Sandmans sword     |
 | Lastodar        | Storm     | Storm   | XXX   | Storm Follicle     |
 | Poliaparu       | Spear     | Spear   | ???   | Poliaporu's Index  |
-| Errukos         | Force     | Will    | XXX   | ???                |
+| Errukos         | Force     | Will    | XXX   | Ten Palm           |
 | Sorothia        | Disease   | Disease | Teph  | Black Corpse       |
-| Marogaj         | Stone     | Stone   | XXX   | ???                |
+| Marogaj         | Stone     | Stone   | XXX   | Ravager            |
 | Kuristiar       | Blade     | Blade   | XXX   | Vampyr             |
 | Gerucoptr       | Frost     | Winter  | XXX   | Godsilver          |
 | Suravolikin     | Knowledge | Mind    | Fear  | Clay Bible         |
