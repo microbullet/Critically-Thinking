@@ -29,9 +29,9 @@ Proficiency is +5
 \*Expertise
 ### Damage Interactions
 
-| Type                                                               | Affected                                     |
-| ------------------------------------------------------------------ | -------------------------------------------- |
-| Immunities[[Stat Track#^66678\|[1] ]]                              | Poison Damage, Rot Damage                    |
-| Resistances[[Stat Track#^66678\|[1] ]][[Stat Track#^ed92af\|[2] ]] | Fire Damage, Nuclear Damage, Necrotic Damage |
-| Vulnerabilities[[Stat Track#^66678\|[1] ]]                         | True Damage, Radiant Damage                  |
-
+| Type                                                               | Affected                                                         |
+| ------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| Immunities[[Stat Track#^66678\|[1] ]]                              | Poison Damage, Rot Damage                                        |
+| Resistances[[Stat Track#^66678\|[1] ]][[Stat Track#^ed92af\|[2] ]] | Fire Damage, Nuclear Damage, Necrotic Damage, Primordial Damage? |
+| Vulnerabilities[[Stat Track#^66678\|[1] ]]                         | True Damage, Radiant Damage                                      |
+? What 
