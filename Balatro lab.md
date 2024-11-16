@@ -13,7 +13,7 @@ Factors:
 
 Activation: 6 repeatable runes of mage hand and a hand sign from the user. Flares out 12 arms to activate all the abilities in unison. 
 
-In a single bonus action, the bracket shoots out forming an adamantium exoskeleton, with an emerald chest bursting into place. then the needle charges outwards in a wave, filling the bracket with tubes and entirely eclipsing the body. Then, from the centre, black skin covers all the tubes. Bloodshot eyes pop from the face only to be covered with the visor. Finally in a shockwave that is visibly heard across the arena, the resulting shape violently hardens into a polygonal form, creating the extremities in the process.
+In a single bonus action, the bracket shoots out forming an adamantium exoskeleton, with an emerald chst bursting into place. then the needle charges outwards in a wave, filling the bracket with tubes and entirely eclipsing the body. Then, from the centre, black skin covers all the tubes. Bloodshot eyes pop from the face only to be covered with the visor. Finally in a shockwave that is visibly heard across the arena, the resulting shape violently hardens into a polygonal form, creating the extremities in the process.
 
 Stability:
 - Emerald consistently uses sew mending to preemptively reinforce areas that would otherwise micro-tear
@@ -41,9 +41,6 @@ Calculations:
 | ( +10 for strength, +5 from Kharn training [[Stat Track#^kharntrain\|[1] ]], +5 from corpse proficiency in everything [[The Black Corpse#^profoneverything\|[2] ]], +5 from pamphlet to hit bonus [[Stat Track#^4e6cb6\|[3] ]]) | x25     | 1.25m   |
 | Incarnation buff                                                                                                                                                                                                                | x2      | 2.5m    |
 | Rot Buff                                                                                                                                                                                                                        | x4      | 10m     |
-
-
-
 
 
 --- The black Soul ---
@@ -122,4 +119,8 @@ Or OR ORRRR, the needle is like hyper accuracy, like poliaparu but stronger, whe
 Also the point is going to be that its so horrendously damaging that just releasing it is going to rip my whole arm off in the process, i know i ussually pull some "yeah but make it stable please please please" but im gonna be real if sigismund doesent have to call in like 30 favours to not get completely vaporised then its too stable
 
 
+36,147
 
+48% battery
+
+All of blazing ichor

@@ -154,6 +154,8 @@
 - Killed Ra
 - Killed the sleep titan
 
+## Echo of dragon sight
+
 ## Unnacounted for
 - Single +1 to intelligence somewhere along the line. maybe a card or like something along those lines
 

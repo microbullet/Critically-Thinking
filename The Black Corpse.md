@@ -33,6 +33,7 @@
 | INT | 15  | +2  |
 | CON | 28  | +9  |
 | SAN | 14  | +2  |
+AC = \[10 (base) + 8 (DEX) + 4 (Rat shield) + 1 Forge domain] =  23 + 5 (shield) = 28
 
 | Dexterity                             | <   | Wisdom                                    | <   | Intelligence                                                                | <   | Charisma                              | <   |
 | ------------------------------------- | --- | ----------------------------------------- | --- | --------------------------------------------------------------------------- | --- | ------------------------------------- | --- |
@@ -45,3 +46,11 @@ Passive Investigation: 32
 Passive Perception: 30
 
 \*Base of 5 with every number
+
+# Damage Interactions 
+
+| Type                                                               | Affected                                     |
+| ------------------------------------------------------------------ | -------------------------------------------- |
+| Immunities[[Stat Track#^66678\|[1] ]]                              | Poison Damage, Rot Damage                    |
+| Resistances[[Stat Track#^66678\|[1] ]][[Stat Track#^ed92af\|[2] ]] | Fire Damage, Nuclear Damage, Necrotic Damage |
+| Vulnerabilities[[Stat Track#^66678\|[1] ]]                         | True Damage, Radiant Damage                  |
