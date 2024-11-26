@@ -4,12 +4,15 @@
 | DEX | 14  | +2  |
 | CHA | 21* | +5  |
 | WIS | 20  | +5  |
-| INT | 15  | +2  |
+| INT | 20  | +5  |
 | CON | 18  | +4  |
 | SAN | 14  | +2  |
 \*if the bonus allows above 20
 
 AC: 10 + DEX (+2) + Armor (+1) [[Items#^f8a46b|[1] ]]| = 13
+
+Spell Attack Bonus: WIS (5) + PROF (5) + [[Items#^17e8a9|[1] ]](3) = +13
+Spell Save DC = 8 + WIS(5) + PROF (5) + [[Stat Track#^9c828b|[2] ]]EXPR (5) + [[Items#^17e8a9|[1] ]](3) = 26
 
 | Misc Proficiencies | Light Armor, [[Stat Track#^78f439\|[1] ]][[Stat Track#^1dc8f1\|[2] ]]<br>Medium Armor,[[Stat Track#^78f439\|[1] ]][[Stat Track#^1dc8f1\|[2] ]]<br>Heavy Armor, [[Stat Track#^1d636e\|[3] ]]<br>Shields, [[Stat Track#^78f439\|[1] ]][[Stat Track#^1dc8f1\|[2] ]]<br>Simple Weapons, [[Stat Track#^78f439\|[1] ]]<br>Thieve's Tools, [[Stat Track#^e9ecd2\|[4] ]]<br>Tinker's Tools, [[Stat Track#^e9ecd2\|[4] ]]<br>Wood Carver's Tools, [[Stat Track#^f7a58b\|[5] ]] |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,4 +37,4 @@ Proficiency is +5
 | Immunities[[Stat Track#^66678\|[1] ]]                              | Poison Damage, Rot Damage                                        |
 | Resistances[[Stat Track#^66678\|[1] ]][[Stat Track#^ed92af\|[2] ]] | Fire Damage, Nuclear Damage, Necrotic Damage, Primordial Damage? |
 | Vulnerabilities[[Stat Track#^66678\|[1] ]]                         | True Damage, Radiant Damage                                      |
-? What 
+? what

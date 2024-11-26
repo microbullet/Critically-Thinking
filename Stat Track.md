@@ -122,7 +122,7 @@
 - All Charisma (adds 2x prof to my charisma stat *confirmed verbally*)
 - Add proficiency again to spell save dc
 ![[Pasted image 20241110201400.png]]
-*This is confirmed by the axel hand waving effect*
+*This is confirmed by the axel hand waving effect* ^9c828b
 - Proficiency to persuasion checks to haggle
 
 #### Mind re-ordering
@@ -155,10 +155,16 @@
 - Killed the sleep titan
 
 ## Echo of dragon sight
+*Aquired when Garou Faram was killed in the primordial forest*
+![[Pasted image 20241126190058.png]]
+- Contact other plane for free, must talk to garou.
 
-## Unnacounted for
-- Single +1 to intelligence somewhere along the line. maybe a card or like something along those lines
+#### Chrono room first incident
+![[Pasted image 20241126190507.png]]
+- Intelligence of 20
+- 2 reactions
 
-
+# Unnaccounted for
 ![[Pasted image 20241111131336.png]] ^66678
 - These are assumed to be "Base" interactions from races etc. 
+- Primordial is also included in this for some reason

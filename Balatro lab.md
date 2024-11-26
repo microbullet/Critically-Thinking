@@ -13,7 +13,7 @@ Factors:
 
 Activation: 6 repeatable runes of mage hand and a hand sign from the user. Flares out 12 arms to activate all the abilities in unison. 
 
-In a single bonus action, the bracket shoots out forming an adamantium exoskeleton, with an emerald chst bursting into place. then the needle charges outwards in a wave, filling the bracket with tubes and entirely eclipsing the body. Then, from the centre, black skin covers all the tubes. Bloodshot eyes pop from the face only to be covered with the visor. Finally in a shockwave that is visibly heard across the arena, the resulting shape violently hardens into a polygonal form, creating the extremities in the process.
+In a single bonus action, the bracket shoots out forming an adamantium exoskeleton, with an emerald chest bursting into place. then the needle charges outwards in a wave, filling the bracket with tubes and entirely eclipsing the body. Then, from the centre, black skin covers all the tubes. Bloodshot eyes pop from the face only to be covered with the visor. Finally in a shockwave that is visibly heard across the arena, the resulting shape violently hardens into a polygonal form, creating the extremities in the process.
 
 Stability:
 - Emerald consistently uses sew mending to preemptively reinforce areas that would otherwise micro-tear
@@ -117,10 +117,3 @@ The idea is that when we molest sorrow and i ascend to heavenly sorothia maximum
 Or OR ORRRR, the needle is like hyper accuracy, like poliaparu but stronger, where it loses range for more accuracy, and as first act as sorothia complete i use it to split all of his atoms apart making him violently explode in a blinding streak of energy.
 
 Also the point is going to be that its so horrendously damaging that just releasing it is going to rip my whole arm off in the process, i know i ussually pull some "yeah but make it stable please please please" but im gonna be real if sigismund doesent have to call in like 30 favours to not get completely vaporised then its too stable
-
-
-36,147
-
-48% battery
-
-All of blazing ichor
