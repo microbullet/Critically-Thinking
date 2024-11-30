@@ -1,6 +1,1 @@
--  How does logistics work in myra
-- What does the torso do
-- What does my silly overkill feat do
-- Are there different tools for working with adamantium
-- Battery to upcast ratio
-- Creating the biomass creatura
+empy

@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"ee923e1d716b2654","type":"text","text":"Centre Myra\n","x":-120,"y":-280,"width":300,"height":251},
+		{"id":"741de2b6f1662936","type":"text","text":"The Nest, From which i address my people\n","x":-100,"y":-154,"width":240,"height":105},
+		{"id":"3317fb8fb8c00eda","type":"text","text":"Northern Myra\nFormerly Upper Myra\n","x":-162,"y":-520,"width":385,"height":240},
+		{"id":"337580764dd6059e","type":"text","text":"Western Myra\nFormerly Lower Myra\n","x":-560,"y":-280,"width":440,"height":251},
+		{"id":"5e5ed94ee54db33b","type":"text","text":"Eastern myra\nFormerly Layolan\nOccupied by the cult of the dust prince","x":180,"y":-279,"width":460,"height":251}
+	],
+	"edges":[]
+}
